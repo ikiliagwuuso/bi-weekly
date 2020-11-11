@@ -1,4 +1,5 @@
-## This python program prompts users to input name and age
+# # This python program prompts users to input name and age
+​
 
 #### Categorizes users age group based on age entered
 
